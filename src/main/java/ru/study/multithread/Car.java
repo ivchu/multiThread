@@ -1,7 +1,5 @@
 package ru.study.multithread;
 
-
-
 public class Car extends Thread{
 
     private Parking parking;
